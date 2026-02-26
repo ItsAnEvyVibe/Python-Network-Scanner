@@ -1,3 +1,10 @@
+# -------------------------------------------------------------
+# Project: Python-Network-Scanner
+# Author: Krystel E Albertson
+# Business: Lock it Down Solutions
+# Date: February 2026
+# -------------------------------------------------------------
+
 import socket
 from datetime import datetime
 
